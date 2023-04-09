@@ -1,3 +1,7 @@
 # created by virtualenv automatically
-Scripts
 pyvenv.cfg
+Scripts
+__pycache__
+.idea
+Lib
+
